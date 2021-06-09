@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ZWK PDF Renderer</string>
+    <string name="info">Info</string>
+    <string name="intro_message">This sample demonstrates how to use PdfRenderer to display PDF documents on the screen.</string>
+    <string name="app_name_with_index">ZWK PDF Renderer (%1$d/%2$d)</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+</resources>
